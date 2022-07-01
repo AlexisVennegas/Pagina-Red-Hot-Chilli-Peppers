@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+    background-image: url(red.jpg);
+}
+
+h1 {
+    color: red;
+    background-color: black;
+    border-radius: 30px;
+    opacity: .4;
+    text-align: center;
+    margin: 30px auto;
+    height: 40px;
+    width: 500px;
+
+}
+
+.parrafo {
+    width: 50%;
+    margin: 30px auto;
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    opacity: .70;
+}
+
+p {
+    width: 50%;
+    margin: 30px auto;
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    opacity: .70;
+}
+
+h2 {
+    color: red;
+    background-color: black;
+    border-radius: 30px;
+    opacity: .70;
+    text-align: center;
+    margin: 30px auto;
+    height: 40px;
+    width: 150px;
+
+}
+
+h3 {
+    color: red;
+    background-color: black;
+    border-radius: 30px;
+    opacity: .70;
+    text-align: center;
+    margin: 30px auto;
+    height: 40px;
+    width: 150px;
+}
+
+table td,
+th {
+    border: 2px solid black;
+    text-align: center;
+    vertical-align: center;
+    margin: 100%;
+    color: black;
+    background-color: white;
+    opacity: .6;
+    align-content: center;
+
+}
+
+.table_style {
+    display: flex;
+    justify-content: space-around;
+}
